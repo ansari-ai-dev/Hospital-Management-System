@@ -1,0 +1,5 @@
+D1|Afzali|20243120076|Cardiologist|Mon-Fri|8-4:pm|66
+D2|Ali Reazei|20243120080|Neurologist|Mon-Thu|8-6:pm|80
+D3|Ansari|20243120082|Dermatologist|Mon-Fri|8-2:pm|79
+D4|Haidri|20243120087|Orthopedic|Mon-Fri|9-5:pm|89
+D5|Askary|20243120084|Ophthalmologist|Mon-Fri|1-6:pm|33

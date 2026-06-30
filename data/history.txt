@@ -1,0 +1,7 @@
+P3|Appointment booked with Dr.Askary on 6/8/2026 at 2:am
+P3|Appointment A1 completed. Notes: 
+P3|Appointment A1 completed. Notes: She does not have any problems!
+P3|Appointment booked with Dr.Ansari on 22/8/2026 at 3:pm
+P3|Emergency appointment (P1) booked with Dr.Afzali on 13/8/2026. Reason: He has only six hours before his surgery!
+P1|Appointment booked with Dr.Ansari on 22/08/2026 at 10:am
+P3|Appointment A2 completed. Notes: Got recovered & mission completed successfully!

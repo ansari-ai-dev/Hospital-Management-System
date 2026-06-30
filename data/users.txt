@@ -1,0 +1,3 @@
+admin|admin123|admin
+C++|cpp|receptionist
+visit|1333|doctor
